@@ -108,11 +108,6 @@ module ditto_staking::ditto_staking {
         0
     }
 
-    // returns the stapt-apt exchange rate with 8 d.p precision
-    public fun get_stapt_index(): u64   {
-        0
-    }
-
     public fun get_user_claim_state(_user: address): UserClaimState {
         UserClaimState {
             available_claim: 0,
