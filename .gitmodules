@@ -4,6 +4,12 @@
 [submodule "ditto-interface"]
 	path = ditto-interface
 	url = https://github.com/ditto-research/ditto-interface
-[submodule "hippo-aggregator-interface"]
-	path = hippo-aggregator-interface
+[submodule "liquidswap"]
+	path = liquidswap
+	url = https://github.com/pontem-network/liquidswap
+[submodule "pancakeswap"]
+	path = pancakeswap
+	url = https://github.com/pancakeswap/pancake-contracts-move
+[submodule "hippo-agg-interface"]
+	path = hippo-agg-interface
 	url = https://github.com/hippospace/hippo-agg-interface
