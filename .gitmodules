@@ -1,0 +1,6 @@
+[submodule "liquidswap-harvest"]
+	path = liquidswap-harvest
+	url = https://github.com/pontem-network/harvest
+[submodule "ditto-interface"]
+	path = ditto-interface
+	url = https://github.com/ditto-research/ditto-interface
