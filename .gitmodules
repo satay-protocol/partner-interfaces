@@ -4,3 +4,6 @@
 [submodule "ditto-interface"]
 	path = ditto-interface
 	url = https://github.com/ditto-research/ditto-interface
+[submodule "hippo-aggregator-interface"]
+	path = hippo-aggregator-interface
+	url = https://github.com/hippospace/hippo-agg-interface
