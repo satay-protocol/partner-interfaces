@@ -1,5 +1,5 @@
 [package]
-name = "tortuga-governance"
+name = "TortugaGovernance"
 version = "0.0.0"
 
 [dependencies.AptosFramework]
