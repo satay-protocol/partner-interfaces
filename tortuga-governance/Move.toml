@@ -1,0 +1,11 @@
+[package]
+name = "tortuga-governance"
+version = "0.0.0"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "main"
+subdir = "aptos-move/framework/aptos-framework"
+
+[addresses]
+tortuga = "0x2f37694be6350f94bbd49e2e87bafd85c79096dcdb155f3071b2fd2a02ac0e2c"
