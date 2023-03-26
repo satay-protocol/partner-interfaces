@@ -8,4 +8,4 @@ rev = "main"
 subdir = "aptos-move/framework/aptos-framework"
 
 [addresses]
-tortuga_governance = "0x2f37694be6350f94bbd49e2e87bafd85c79096dcdb155f3071b2fd2a02ac0e2c"
+tortuga_governance = "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114"
