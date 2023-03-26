@@ -20,16 +20,16 @@ module aries::profile {
 
     public fun get_borrowed_amount(
         _user_addr: address,
-        _profile_name: String,
-        _coin_type: TypeInfo
+        _profile_name: &String,
+        _reserve_type_info: TypeInfo
     ): Decimal {
         decimal::zero()
     }
 
     public fun get_deposited_amount(
         _user_addr: address,
-        _profile_name: String,
-        _coin_type: TypeInfo
+        _profile_name: &String,
+        _reserve_type_info: TypeInfo
     ): u64 {
         0
     }
