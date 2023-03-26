@@ -1,7 +1,7 @@
-module aries_interface::oracle {
+module aries::oracle {
 
-    use aries_interface::decimal::Decimal;
-    use aries_interface::decimal;
+    use aries::decimal::Decimal;
+    use aries::decimal;
 
     public fun get_price(): Decimal {
         decimal::zero()
