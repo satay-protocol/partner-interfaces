@@ -1,5 +1,5 @@
 [package]
-name = "aries-interface"
+name = "Aries"
 version = "0.0.0"
 
 [dependencies.AptosFramework]
