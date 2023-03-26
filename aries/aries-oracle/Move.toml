@@ -11,4 +11,4 @@ subdir = "aptos-move/framework/aptos-framework"
 local = '../aries-decimal'
 
 [addresses]
-oracle = "45b0b5e8d8666323bc8443be255aa9b754cb98ea962526de4d33474a754a941a"
+oracle = "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3"

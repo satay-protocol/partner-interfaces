@@ -3,7 +3,7 @@ name = 'Decimal'
 version = '0.1.0'
 
 [addresses]
-decimal = "3a8dc5ad8fedf897dbcc71eac6e02772510f06d2c46121571b18118a2f06a78f"
+decimal = "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3"
 
 [dependencies.MoveStdlib]
 git = "https://github.com/aptos-labs/aptos-core.git"
