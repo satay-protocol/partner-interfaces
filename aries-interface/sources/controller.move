@@ -35,4 +35,9 @@ module aries::controller {
         _third_pool_type: u64,
         _third_is_x_to_y: bool,
     ) {}
+
+    public entry fun add_subaccount(
+        _account: &signer,
+        _profile_name: vector<u8>,
+    ) {}
 }
