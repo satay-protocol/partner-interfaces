@@ -1,0 +1,11 @@
+[package]
+name = 'Decimal'
+version = '0.1.0'
+
+[addresses]
+decimal = "3a8dc5ad8fedf897dbcc71eac6e02772510f06d2c46121571b18118a2f06a78f"
+
+[dependencies.MoveStdlib]
+git = "https://github.com/aptos-labs/aptos-core.git"
+subdir = "aptos-move/framework/move-stdlib"
+rev = "aptos-cli-v1.0.0"

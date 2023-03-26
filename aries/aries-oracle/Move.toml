@@ -1,5 +1,5 @@
 [package]
-name = "Aries"
+name = "Oracle"
 version = "0.0.0"
 
 [dependencies.AptosFramework]
@@ -7,5 +7,8 @@ git = "https://github.com/aptos-labs/aptos-core.git"
 rev = "main"
 subdir = "aptos-move/framework/aptos-framework"
 
+[dependencies.Decimal]
+local = '../aries-decimal'
+
 [addresses]
-aries = "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3"
+oracle = "45b0b5e8d8666323bc8443be255aa9b754cb98ea962526de4d33474a754a941a"
