@@ -4,7 +4,7 @@ version = "0.0.0"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"
-rev = "main"
+rev = "8fc6515e8014b0890f62621ed85de932a03a00b6"
 subdir = "aptos-move/framework/aptos-framework"
 
 [dependencies.Oracle]
