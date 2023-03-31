@@ -2,6 +2,12 @@ module aries::controller {
 
     public entry fun register_user(_user: &signer, _seed: vector<u8>) {}
 
+    public entry fun register_user_with_referrer(
+        _account: &signer,
+        _default_profile_name: vector<u8>,
+        _referrer_addr: address
+    ) {}
+
     public entry fun deposit<CoinType>(
         _account: &signer,
         _profile_name: vector<u8>,
